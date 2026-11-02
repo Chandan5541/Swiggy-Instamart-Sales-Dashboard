@@ -54,3 +54,7 @@ A quick-commerce business needs to know where revenue comes from so it can decid
 - Quarterly sales trend (area chart)
 - Top 5 shops table
 - Year slicer (2021 to 2024) that filters the whole report
+
+- ## 👤 Author
+**Chandan Sarma** | Data Analyst | Excel • SQL • Power BI
+[GitHub](https://github.com/Chandan5541)
