@@ -2,9 +2,7 @@
 
 An interactive Power BI dashboard that analyzes Swiggy Instamart sales by city type, shop size, shop type and quarter, with KPIs and a Top 5 shops leaderboard.
 
-
-
-![Dashboard Preview](YOUR-SCREENSHOT-FILE-NAME.png)
+![Dashboard Preview](Screenshot%202026-10-01%20023056.png)
 
 
 
