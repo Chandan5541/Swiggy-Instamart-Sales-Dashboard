@@ -55,6 +55,11 @@ A quick-commerce business needs to know where revenue comes from so it can decid
 - Top 5 shops table
 - Year slicer (2021 to 2024) that filters the whole report
 
-- ## 👤 Author
-**Chandan Sarma** | Data Analyst | Excel • SQL • Power BI
-[GitHub](https://github.com/Chandan5541)
+## 👤 Author
+
+**Chandan Sarma**
+Data Analyst | Excel · SQL · Power BI
+
+- 🔗 GitHub: [Chandan5541](https://github.com/Chandan5541)
+- 📧 Email: chandansarma087@gmail.com
+- 💼 LinkedIn: [Chandan Sarma](https://www.linkedin.com/in/chandansarma-5a0a82266)
